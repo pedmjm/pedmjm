@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @pedmjm
-- 👀 I’m interested in camping and stuff, but I'm pretty much stuck working.
-- 🌱 I’m currently learning Python, and developing some sort of POS system using QT as Gui.
-- 💞️ I’m looking to collaborate on something i can collaborate to :D 
-- 📫 How to reach me:
--       you dont.
--       BUT ! pedmjm is also my IG profile :D
--       nvm, my email padd0303@gmail.com
+👋 Hi.
